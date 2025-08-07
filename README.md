@@ -1,37 +1,31 @@
 # fitgirl-multi-part-grabber
 
 <br><br>
--- About the Application
-
-Do you use fuckingfast to download fitgirl files?  
-
-Are you tired of clicking multiple links for each file parts?  
-
-I came with a solution for this problem. Through this project, I created a python application to automatically collect the DIRECT LINKS for all the parts of the game.  
-
-This application stores all the collected links in a TEXT FILE and you can import this text file to your IDM software to download all the parts as batches.
+  _Do you use fuckingfast to download fitgirl files?_
+  
+  _Are you tired of clicking multiple links for each file parts?_
+  
+  _I came with a solution for this problem. Through this project, I created a python application to automatically collect the DIRECT LINKS for all the parts of the game._  
+  
+  _This application stores all the collected links in a TEXT FILE and you can import this text file to your IDM software to download all the parts as batches._
 
 <br><br>
-------------------------------------------------------------
-<br>
--- What's New
+
+**<h2>What's New</h2>**
 
 - Added a new GUI to the application.
 - Added a new field to providee the name of the game and store the text file along with game name.
 - Made more easy to use.
   
 <br><br>
-------------------------------------------------------------
-<br>
-DOWNLOAD LINK
 
-<a href="https://github.com/ajubtk/fitgirl-multi-part-grabber/blob/main/Fitgirl-Multi-Part-Grabber-v2.exe">Fitgirl-Multi-Part-Grabber-v2.exe</a>
+**<h2>Download</h2>**
+
+<i>Stable version v2 - </i><a href="https://github.com/ajubtk/fitgirl-multi-part-grabber/blob/main/Fitgirl-Multi-Part-Grabber-v2.exe"><i>Fitgirl-Multi-Part-Grabber-v2.exe</i></a>
 
 <br><br>
-------------------------------------------------------------
-<br>
 
--- How to use IDM to Download the Files.
+**<h2>How to use IDM to Download the Files.</h2>**
 
 1. Open the game page in <a href="https://www.fitgirl-repacks.site">Fitgirl site</a>.<br>
 
