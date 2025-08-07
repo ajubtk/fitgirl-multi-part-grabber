@@ -21,13 +21,13 @@
 
 **<h2>Download</h2>**
 
-<i>Stable version v2 - </i><a href="https://github.com/ajubtk/fitgirl-multi-part-grabber/blob/main/Fitgirl-Multi-Part-Grabber-v2.exe"><i>Fitgirl-Multi-Part-Grabber-v2.exe</i></a>
+<i>Stable version v2 - </i><a target="_blank" href="https://github.com/ajubtk/fitgirl-multi-part-grabber/blob/main/Fitgirl-Multi-Part-Grabber-v2.exe"><i>Fitgirl-Multi-Part-Grabber-v2.exe</i></a>
 
 <br><br>
 
 **<h2>How to use IDM to Download the Files.</h2>**
 
-1. Open the game page in <a href="https://www.fitgirl-repacks.site">Fitgirl site</a>.<br>
+1. Open the game page in <a target="_blank" href="https://www.fitgirl-repacks.site">Fitgirl site</a>.<br>
 
 <img width="1572" height="970" alt="image" src="https://github.com/user-attachments/assets/cfb844c9-76a1-41b0-8267-6a727cfdbaa6" /><br><br>
 
@@ -47,7 +47,7 @@
 
 <img width="873" height="718" alt="image" src="https://github.com/user-attachments/assets/f023d13d-ff6b-42d9-a8f7-d55b6dafec1c" /><br><br>
 
-6. Open IDM application (Download from <a href="https://www.internetdownloadmanager.com/download.html">here</a>)<br>
+6. Open IDM application (Download from <a target="_blank" href="https://www.internetdownloadmanager.com/download.html">here</a>)<br>
 
 <img width="909" height="536" alt="image" src="https://github.com/user-attachments/assets/fa164755-f19b-40b9-a2b2-b619c66cb914" /><br><br>
 
