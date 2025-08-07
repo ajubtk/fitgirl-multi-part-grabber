@@ -1,5 +1,6 @@
 # fitgirl-multi-part-grabber
 
+<br><br>
 -- About the Application
 
 Do you use fuckingfast to download fitgirl files?  
@@ -10,15 +11,25 @@ I came with a solution for this problem. Through this project, I created a pytho
 
 This application stores all the collected links in a TEXT FILE and you can import this text file to your IDM software to download all the parts as batches.
 
+<br><br>
+------------------------------------------------------------
+<br>
 -- What's New
 
 - Added a new GUI to the application.
 - Added a new field to providee the name of the game and store the text file along with game name.
 - Made more easy to use.
-
+  
+<br><br>
+------------------------------------------------------------
+<br>
 DOWNLOAD LINK
 
 <a href="https://github.com/ajubtk/fitgirl-multi-part-grabber/blob/main/Fitgirl-Multi-Part-Grabber-v2.exe">Fitgirl-Multi-Part-Grabber-v2.exe</a>
+
+<br><br>
+------------------------------------------------------------
+<br>
 
 -- How to use IDM to Download the Files.
 
